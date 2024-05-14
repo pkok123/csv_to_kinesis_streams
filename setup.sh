@@ -8,7 +8,7 @@ sudo yum install wget
 
 # download the zip file
 cd /data
-sudo wget https://github.com/dogukannulu/csv_to_kinesis_streams/raw/main/csv_to_kinesis.zip
+sudo wget https://github.com/pkok123/csv_to_kinesis_streams/raw/main/csv_to_kinesis.zip
 
 # Unzip the files
 sudo unzip csv_to_kinesis.zip
